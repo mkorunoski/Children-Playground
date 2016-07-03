@@ -1,2 +1,2 @@
-# Computer-Graphics-Lab.
+# Computer Graphics Lab
 Computer graphics course's laboratory exercises
