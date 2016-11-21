@@ -13,8 +13,8 @@ Project for Computer Graphics Course's Laboratory Exercises. OpenGL API and GLUT
 - Bezier curves and surfaces
 
 ## Screenshots
-![Image Title](https://github.com/mkorunoski/Children-Playground/blob/master/Images/Screenshot1.png)
+![Image Title](https://github.com/mkorunoski/Children-Playground/blob/master/Images/Screenshot1.JPG)
 
-![Image Title](https://github.com/mkorunoski/Children-Playground/blob/master/Images/Screenshot2.png)
+![Image Title](https://github.com/mkorunoski/Children-Playground/blob/master/Images/Screenshot2.JPG)
 
-![Image Title](https://github.com/mkorunoski/Children-Playground/blob/master/Images/Screenshot3.png)
+![Image Title](https://github.com/mkorunoski/Children-Playground/blob/master/Images/Screenshot3.JPG)
